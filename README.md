@@ -6,5 +6,5 @@
   Programming Language : javascript , python , bashscript , nodejs , rust
 </p>
 <p>
-  DB : mongoDB , PostgreSQL , surrealDB
+  DB : MongoDB , PostgreSQL , SurrealDB
 </p>
